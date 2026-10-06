@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="padding_medium">12dp</dimen>
+    <dimen name="icon_size_task">20dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+</resources>

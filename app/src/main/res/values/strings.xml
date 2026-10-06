@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TaskNote</string>
+    <string name="task_list_title">My Tasks</string>
+    <string name="add_task_button">Add Task</string>
+</resources>
